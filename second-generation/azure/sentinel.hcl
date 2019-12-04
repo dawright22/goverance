@@ -1,3 +1,3 @@
-policy "restrict-publishers-of-current-vms.sentinel" {
+policy "restrict-publishers-of-current-vms" {
     enforcement_level = "advisory"
 }
