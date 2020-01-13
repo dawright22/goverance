@@ -76,7 +76,7 @@ validate_publishers = func(allowed_publishers) {
 # List of allowed publishers
 allowed_publishers = [
  # "RedHat",
-  "Canonical",
+  #"Canonical",
 ]
 
 ##### Rules #####
